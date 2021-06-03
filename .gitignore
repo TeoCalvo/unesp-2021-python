@@ -2,3 +2,7 @@
 *pptx
 *.ipynb_checkpoints
 .ipynb_checkpoints*
+*.csv
+*.xlsx
+*.xls
+*.db
